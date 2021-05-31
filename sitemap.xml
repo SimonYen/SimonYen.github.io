@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://simonyen.github.io/post/ashitaharerukana/</loc>
+    <lastmod>2021-05-31T18:02:48+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://simonyen.github.io/categories/</loc>
-    <lastmod>2021-05-31T11:23:35+08:00</lastmod>
+    <lastmod>2021-05-31T18:02:48+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://simonyen.github.io/post/</loc>
-    <lastmod>2021-05-31T11:23:35+08:00</lastmod>
+    <lastmod>2021-05-31T18:02:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonyen.github.io/categories/%E6%97%A5%E5%89%A7/</loc>
+    <lastmod>2021-05-31T18:02:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonyen.github.io/</loc>
+    <lastmod>2021-05-31T18:02:48+08:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +34,6 @@
   
   <url>
     <loc>https://simonyen.github.io/post/%E5%B9%B6%E4%B8%8D%E6%98%AF/</loc>
-    <lastmod>2021-05-31T11:23:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonyen.github.io/</loc>
     <lastmod>2021-05-31T11:23:35+08:00</lastmod>
   </url>
   
